@@ -1,0 +1,22 @@
+# Maven
+target/
+*.jar
+*.war
+
+# IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# Maven Wrapper downloaded files
+mvn-wrapper.zip
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
